@@ -1,0 +1,13 @@
+temp_log_file.html
+
+# comments like this
+
+*.zip
+*.gz
+
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+
